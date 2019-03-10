@@ -1,0 +1,10 @@
+{
+  "name": "hackernews-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "<dr.fcmam5@gmail.com> (https://fcmam5.github.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "1.17.4"
+  }
+}
